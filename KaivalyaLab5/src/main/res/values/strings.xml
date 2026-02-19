@@ -7,4 +7,9 @@ Student ID: N01659330
     <string name="app_name">FragmentLab5</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello1">Hello1</string>
+    <string name="hello2">Hello2</string>
+    <string name="kaivalya_concept_label">Hello1</string>
+    <string name="kaivalya_definition_label">Hello2</string>
+
 </resources>
