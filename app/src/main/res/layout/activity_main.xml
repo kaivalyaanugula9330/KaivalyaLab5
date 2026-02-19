@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -8,7 +9,7 @@
 
     <androidx.fragment.app.FragmentContainerView
         android:id="@+id/fragmentContainerView"
-        android:name="john.smith.fragmentlab5.ListFragment"
+        android:name="kaivalya.anugula.fragmentlab5.ListFragment"
         android:layout_width="179dp"
         android:layout_height="679dp"
         android:layout_marginStart="16dp"
@@ -19,7 +20,7 @@
 
     <androidx.fragment.app.FragmentContainerView
         android:id="@+id/fragmentContainerView2"
-        android:name="john.smith.fragmentlab5.DefinitionFragment"
+        android:name="kaivalya.anugula.fragmentlab5.DefinitionFragment"
         android:layout_width="188dp"
         android:layout_height="679dp"
         android:layout_marginStart="208dp"

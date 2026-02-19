@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace 'john.smith.fragmentlab5'
+    namespace 'kaivalya.anugula.fragmentlab5'
     compileSdk 36
 
     defaultConfig {
