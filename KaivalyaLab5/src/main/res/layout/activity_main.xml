@@ -5,11 +5,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".KaivalyaActivity5">
 
     <androidx.fragment.app.FragmentContainerView
         android:id="@+id/fragmentContainerView"
-        android:name="kaivalya.anugula.fragmentlab5.ListFragment"
+        android:name="kaivalya.anugula.fragmentlab5.ListFragmentAnugula"
         android:layout_width="179dp"
         android:layout_height="679dp"
         android:layout_marginStart="16dp"
@@ -20,7 +20,7 @@
 
     <androidx.fragment.app.FragmentContainerView
         android:id="@+id/fragmentContainerView2"
-        android:name="kaivalya.anugula.fragmentlab5.DefinitionFragment"
+        android:name="kaivalya.anugula.fragmentlab5.DefinitionFragmentKaivalya"
         android:layout_width="188dp"
         android:layout_height="679dp"
         android:layout_marginStart="208dp"
