@@ -24,17 +24,9 @@ public class ListFragmentAnugula extends Fragment {
 
     private ListView listView;
 
-    String[] concepts = new String[]
-            {
-                    "Android",
-                    "ART",
-                    "AVD",
-                    "Intent",
-                    "AOT",
-                    "Emulator",
-                    "Activity",
-                    "Fragment",
-                    "Life Cycle events" };
+    String[] concepts = getResources().getStringArray(R.array.concepts_array);
+    {
+ };
     //
     String[] definition = new String[]
             {"Open source software stack",

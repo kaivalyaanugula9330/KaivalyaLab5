@@ -11,5 +11,14 @@ Student ID: N01659330
     <string name="hello2">Hello2</string>
     <string name="kaivalya_concept_label">Hello1</string>
     <string name="kaivalya_definition_label">Hello2</string>
-
+    <string-array name="concepts_array">
+        <item>Android</item>
+        <item>ART</item>
+        <item>AVD</item>
+        <item>Intent</item>
+        <item>AOT</item>
+        <item>Emulator</item>
+        <item>Activity</item>
+        <item>Fragment</item>
+    </string-array>
 </resources>
